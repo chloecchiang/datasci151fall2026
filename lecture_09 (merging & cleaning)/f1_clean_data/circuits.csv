@@ -1,4 +1,8 @@
+<<<<<<< HEAD:lecture_09 (merging & cleaning)/f1_clean_data/circuits.csv
 ,circuitId,circuitRef,name,location,country,lat,lng,alt,url,alt_numeric
+=======
+,circuitID,circuitRef,name,location,country,lat,lng,alt,url,alt_numeric
+>>>>>>> 996bc152d04541193678c85c0d75d18f9810100a:lecture_09_merging_and_cleaning/f1_clean_data/circuits.csv
 0,1,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit,10.0
 1,2,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,http://en.wikipedia.org/wiki/Sepang_International_Circuit,18.0
 2,3,bahrain,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,7,http://en.wikipedia.org/wiki/Bahrain_International_Circuit,7.0
